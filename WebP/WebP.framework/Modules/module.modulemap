@@ -1,5 +1,6 @@
 framework module WebP {
   umbrella header "types.h"
+  umbrella header "encode.h"
     
   export *
   module * { export * }
